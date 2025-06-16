@@ -34,7 +34,7 @@ I'm a passionate Software Engineer from Tunisia with 4+ years of experience in b
 ## 🚀 **Featured Projects**
 - **Yeahkids Platform**  
   A web platform for managing educational content for children, built with **Symfony 5**, **PHP 7.2**, and **MySQL**. Implemented user management and content personalization with unit tests for stability.  
-  🔗 [Check it out](https://github.com/Mohaameed1)  
+  🔗 [Check it out]([https://github.com/Mohaameed1](https://github.com/Mohaameed1/Yeah-Kids))  
 
 - **E-Care Telemedicine**  
   A multi-platform telemedicine solution with real-time chat, developed using **Symfony 4**, **Java**, and **JavaFX**. Focused on secure data handling and performance optimization.  
