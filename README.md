@@ -1,44 +1,46 @@
-```md
 <div align="center">
-  <h1>👋 Welcome to My GitHub! I'm Mohamed Amorri</h1>
-  <h3>Software Engineer | AI & Full-Stack Developer | DevOps Enthusiast</h3>
 
-  <img src="https://img.shields.io/badge/From-Tunisia-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMjAwIj48cGF0aCBkPSJNMCAwSDMwMFYyMDBIMHoiIGZpbGw9IiNkMDAwMDAiLz48cGF0aCBkPSJNMCA2N0gzMDB2NjZIMHoiIGZpbGw9IiNmZmZmZmYiLz48Y2lyY2xlIGN4PSIxMTAiIGN5PSIxMDAiIHI9IjUwIiBmaWxsPSIjZDAwMDAwIi8+PHBhdGggZD0iTTEyMi41IDEwMi41YzAtOC44LTcuMi0xNi0xNi0xNi0zLjcgMC03LjMgMS41LTEwLjIgNC4zIDMuNC0xLjUgNi44LTIuMyAxMC41LTIuMyA4LjggMCAxNiA3LjIgMTYgMTZ2LjFjMCA4LjgtNy4yIDE2LTE2IDE2LTMuNyAwLTcuMy0xLjUtMTAuMi00LjMgMy40IDEuNSA2LjggMi4zIDEwLjUgMi4zIDguOCAwIDE2LTcuMiAxNi0xNnpNMTMwLjUgOTYuNWMwLTQuNC0zLjYtOC04LThjLTEuOCAwLTMuNiAuNy00LjkgMi4xIDMuOC0xLjMgNy41IDMuMiA3LjUgOC4yIDAgMS40LTIuNSAyLjQtNS42IDEuOXoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=" />
+# 👋 Welcome to My GitHub! I'm Mohamed Amorri
 
-  <br>
+### Software Engineer | Full-Stack Developer | AI Enthusiast | DevOps Enthusiast
 
-  <img src="https://komarev.com/ghpvc/?username=Mohaameed1&color=blue&style=flat-square" alt="Profile views" />
+![Tunisia](https://img.shields.io/badge/🇹🇳-Tunisia-red?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohaameed1&color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Mohaameed1?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Mohaameed1?style=for-the-badge&color=yellow)
 
-  <a href="https://github.com/Mohaameed1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohaameed1?style=flat-square&color=blue" alt="GitHub followers" />
-  </a>
-
-  <a href="https://github.com/Mohaameed1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mohaameed1?style=flat-square&color=yellow" alt="GitHub Stars" />
-  </a>
 </div>
 
 ---
 
-## 🛠️ **About Me**
+# 🛠 About Me
 
-I'm a passionate **Software Engineer from Tunisia** with experience in building scalable web applications, intelligent systems, and modern software architectures.
+I'm a passionate **Software Engineer from Tunisia** with experience in building scalable web applications, REST APIs, microservices architectures, and intelligent software solutions.
 
-I enjoy solving complex problems through clean code, automation, and modern technologies. My experience covers **Full-Stack Development, Microservices, REST APIs, DevOps, IoT, and Artificial Intelligence**.
+I enjoy solving complex challenges through clean code, software architecture, DevOps practices, and modern technologies.
 
-I have worked with technologies such as **Java, Spring Boot, Angular, Symfony, React, PHP, Python, PostgreSQL, MySQL, Docker, Jenkins, and Raspberry Pi**.
+My expertise includes:
 
-I am particularly interested in building intelligent software solutions that combine strong backend architectures with technologies such as **OCR, Speech-to-Text, Generative AI, and AI-assisted automation**.
+- 💻 Full-Stack Development
+- ☕ Java & Spring Boot
+- 🅰️ Angular
+- 🐘 PHP & Symfony
+- ⚛️ React
+- 🐍 Python
+- 🏗️ Microservices Architecture
+- ☁️ DevOps & CI/CD
+- 🤖 Artificial Intelligence Integration
+- 🌐 REST APIs
 
-🌱 **Current Focus:** Building **GynCare AI**, an intelligent healthcare platform designed for gynecologists, combining medical workflow automation, OCR document processing, Speech-to-Text, and AI-assisted features.
+🌱 **Current Focus:** Building **GynCare AI**, an intelligent healthcare platform for gynecologists combining OCR, Speech-to-Text, AI-powered automation, and modern web technologies.
 
-💡 **Fun Fact:** I built an IoT pet feeder using Raspberry Pi and ESP32, and I enjoy exploring how AI and automation can solve real-world problems.
+💡 **Fun Fact:** I built an IoT pet feeder using Raspberry Pi and ESP32 to keep pets happy remotely.
 
 ---
 
-## ⚙️ **Tech Stack**
+# ⚙️ Tech Stack
 
-### 🌐 **Frontend Development**
+## 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-Skilled-orange?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Skilled-blue?style=flat-square&logo=css3)
@@ -46,37 +48,49 @@ I am particularly interested in building intelligent software solutions that com
 ![TypeScript](https://img.shields.io/badge/TypeScript-Skilled-blue?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-Skilled-red?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/React-Skilled-blue?style=flat-square&logo=react)
-![Twig](https://img.shields.io/badge/Twig-Skilled-green?style=flat-square&logo=symfony)
+![Twig](https://img.shields.io/badge/Twig-Skilled-green?style=flat-square)
 
-### 💻 **Backend Development**
+---
+
+## 💻 Backend Development
 
 ![Java](https://img.shields.io/badge/Java-Skilled-orange?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Skilled-brightgreen?style=flat-square&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-Skilled-green?style=flat-square&logo=springsecurity)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Skilled-brightgreen?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-Skilled-green?style=flat-square&logo=springsecurity)
 ![PHP](https://img.shields.io/badge/PHP-Skilled-blue?style=flat-square&logo=php)
 ![Symfony](https://img.shields.io/badge/Symfony-Skilled-black?style=flat-square&logo=symfony)
 ![Laravel](https://img.shields.io/badge/Laravel-Skilled-red?style=flat-square&logo=laravel)
 ![Python](https://img.shields.io/badge/Python-Skilled-green?style=flat-square&logo=python)
+
+---
+
+## 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-Skilled-blue?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Skilled-blue?style=flat-square&logo=postgresql)
 
-### 🤖 **Artificial Intelligence & Automation**
+---
 
-![Python](https://img.shields.io/badge/Python-AI%20Development-green?style=flat-square&logo=python)
-![OCR](https://img.shields.io/badge/OCR-Document%20Processing-blue?style=flat-square)
-![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-Voice%20Processing-red?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Integration-purple?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Skilled-orange?style=flat-square)
-![AI Integration](https://img.shields.io/badge/AI%20Integration-Skilled-brightgreen?style=flat-square)
+## 🤖 Artificial Intelligence
 
-### 🏗️ **Architecture & APIs**
+![Python](https://img.shields.io/badge/Python-AI-green?style=flat-square&logo=python)
+![OCR](https://img.shields.io/badge/OCR-Skilled-blue?style=flat-square)
+![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-Skilled-red?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Skilled-orange?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-Skilled-brightgreen?style=flat-square)
+
+---
+
+## 🏗️ Architecture & APIs
 
 ![Microservices](https://img.shields.io/badge/Microservices-Skilled-blue?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-Skilled-green?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=flat-square)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-Skilled-brightgreen?style=flat-square&logo=spring)
+![REST API](https://img.shields.io/badge/REST_API-Skilled-green?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-Skilled-orange?style=flat-square)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Skilled-brightgreen?style=flat-square)
 
-### ☁️ **DevOps & Tools**
+---
+
+## ☁️ DevOps & Monitoring
 
 ![Docker](https://img.shields.io/badge/Docker-Skilled-blue?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Skilled-blue?style=flat-square&logo=kubernetes)
@@ -88,148 +102,118 @@ I am particularly interested in building intelligent software solutions that com
 
 ---
 
-## 🚀 **Featured Projects**
+# 🚀 Featured Projects
 
-- **🧠 GynCare AI** *(In Progress)*  
-  An intelligent healthcare platform designed for gynecologists to simplify consultations, automate medical workflows, and centralize medical information.
+## 🧠 GynCare AI *(Current Project)*
 
-  **Main Features:**
-  - 🎙️ Speech-to-Text for automatic medical consultation transcription
-  - 📄 OCR-based digitization of medical reports and laboratory documents
-  - 🤖 AI-assisted medical data processing and workflow automation
-  - 🗂️ Centralized patient record management
-  - 🔐 Secure authentication and access management
-  - 🌐 REST API architecture
-  - 🗄️ PostgreSQL-based medical data management
+An AI-powered healthcare platform designed for gynecologists to automate medical workflows and simplify patient management.
 
-  **Stack:** Java, Spring Boot, Angular, PostgreSQL, Python, OCR, Speech-to-Text, Generative AI, REST API
+### Features
 
-  🔗 **Repository coming soon**
+- 🎙️ Speech-to-Text medical transcription
+- 📄 OCR document digitization
+- 🤖 AI-assisted medical data processing
+- 🏥 Consultation management
+- 🔐 Secure authentication
+- 📊 Intelligent workflow automation
 
----
+**Stack:** Spring Boot, Angular, PostgreSQL, Python, OCR, Speech-to-Text, AI Integration
 
-- **💼 CVthèque Platform** *(Current Professional Project)*  
-  A platform for centralizing, managing, and searching candidate profiles using a modern microservices architecture.
-
-  **Main Features:**
-  - Candidate profile management
-  - REST API development
-  - Microservices architecture
-  - Service discovery with Eureka
-  - API Gateway
-  - JWT authentication
-  - PostgreSQL data management
-
-  **Stack:** Java, Spring Boot, Angular, Spring Cloud Eureka, API Gateway, PostgreSQL, JWT, REST API
+🔗 Coming Soon
 
 ---
 
-- **🦅 Eagle Soccer**
+## 💼 CVthèque Platform
 
-  A full-stack platform for football field booking and sports academy management.
+Professional platform for centralizing, managing, and searching candidate profiles using a modern microservices architecture.
 
-  **Features:**
-  - Football field reservations
-  - Academy registrations
-  - JWT authentication
-  - Real-time notifications
-  - User and administrator management
-
-  **Stack:** Spring Boot, Spring Security, Angular, TypeScript, MySQL, JWT
-
-  🔗 [Check the project](https://github.com/Mohaameed1/Eagle-Soccer)
+**Stack:** Java, Spring Boot, Angular, PostgreSQL, Spring Cloud Eureka, API Gateway, JWT
 
 ---
 
-- **📚 YeahKids Platform**
+## 🦅 Eagle Soccer
 
-  A web platform for managing educational content for children.
+Football field reservation and academy management platform.
 
-  **Stack:** Symfony 5, PHP 7.2, MySQL, Twig
+**Stack:** Spring Boot, Angular, MySQL, Spring Security, JWT
 
-  🔗 [Check it out](https://github.com/Mohaameed1/Yeah-Kids)
-
----
-
-- **🏥 E-Care Telemedicine**
-
-  A multi-platform telemedicine solution with web, desktop, and healthcare-related features.
-
-  **Stack:** Symfony 4, PHP, Java, JavaFX, MySQL
-
-  🔗 [Explore more](https://github.com/Mohaameed1)
+🔗 Coming Soon
 
 ---
 
-- **🐾 Petfeeder IoT System**
+## 📚 YeahKids Platform
 
-  An IoT solution for automated pet feeding using embedded devices and web technologies.
+Educational content management platform for children.
 
-  **Stack:** Raspberry Pi, ESP32, Symfony, IoT
-
-  🔗 [See the project](https://github.com/Mohaameed1)
+**Stack:** Symfony 5, PHP, MySQL, Twig
 
 ---
 
-## 🏆 **Achievements**
+## 🏥 E-Care Telemedicine
 
-- 🚀 Developed multiple Full-Stack applications using **Spring Boot, Angular, Symfony, React, and PHP**
-- 🤖 Currently building **GynCare AI**, an AI-assisted healthcare platform using **OCR and Speech-to-Text**
-- 🏗️ Designed and implemented **Microservices architectures** with Spring Boot, Eureka, and API Gateway
-- 🔗 Built and integrated secure **REST APIs** with JWT authentication
-- 📡 Developed IoT systems using **Raspberry Pi and ESP32**
-- ☁️ Implemented CI/CD workflows using **Docker, Jenkins, Git, Prometheus, and Grafana**
-- 🗄️ Worked with relational databases including **PostgreSQL and MySQL**
-- 💡 Strong interest in **Artificial Intelligence, automation, intelligent systems, and modern software architecture**
+Multi-platform healthcare solution including web, desktop, and medical management features.
+
+**Stack:** Symfony 4, PHP, Java, JavaFX, MySQL
 
 ---
 
-## 🎯 **Current Goals**
+## 🐾 PetFeeder IoT System
 
-- 🤖 Strengthen my skills in **Artificial Intelligence and Machine Learning**
-- 🧠 Build AI-assisted applications with real-world use cases
-- 🐍 Improve my expertise in **Python for AI and data processing**
-- ☁️ Deepen my knowledge of cloud-native and microservices architectures
-- 🚀 Continue building scalable applications with **Spring Boot and Angular**
-- 🔬 Explore AI integration in healthcare, automation, and intelligent business systems
+IoT-based automatic pet feeding system.
+
+**Stack:** Raspberry Pi, ESP32, Symfony, IoT
 
 ---
 
-## 📊 **GitHub Stats**
+# 🏆 Achievements
+
+- 🚀 Developed multiple Full-Stack applications using Spring Boot, Angular, Symfony, React, and PHP
+- 🏗️ Designed Microservices Architectures using Spring Cloud and API Gateway
+- 🔗 Built secure REST APIs with JWT Authentication
+- 🤖 Currently developing GynCare AI with OCR and Speech-to-Text technologies
+- 📡 Built IoT solutions using Raspberry Pi and ESP32
+- ☁️ Implemented CI/CD pipelines using Docker, Jenkins, and monitoring tools
+- 💾 Worked extensively with PostgreSQL and MySQL databases
+- 📈 Continuously learning Artificial Intelligence and software architecture best practices
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohaameed1&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohaameed1&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohaameed1&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohaameed1&layout=compact&theme=radical" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📫 **Let's Connect**
+# 📫 Let's Connect
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mohamed-amorri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/mohamed-amorri/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-  <a href="mailto:Mohamed.Amorri@esprit.tn">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
+<a href="mailto:Mohamed.Amorri@esprit.tn">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-  <a href="https://github.com/Mohaameed1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
-  </a>
+<a href="https://github.com/Mohaameed1">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  ✨ <em>Crafted by Mohamed Amorri</em> ✨
+
+✨ **Crafted by Mohamed Amorri** ✨
+
 </div>
-```
