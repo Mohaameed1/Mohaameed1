@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub! I'm Mohamed Amorri
 
-### Software Engineer | Full-Stack Developer | AI Enthusiast | DevOps Enthusiast
+### Software Engineer | AI & Full-Stack Developer | DevOps Enthusiast
 
 ![Tunisia](https://img.shields.io/badge/🇹🇳-Tunisia-red?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohaameed1&color=blue&style=for-the-badge)
@@ -15,24 +15,17 @@
 
 # 🛠 About Me
 
-I'm a passionate **Software Engineer from Tunisia** with experience in building scalable web applications, REST APIs, microservices architectures, and intelligent software solutions.
+I'm a passionate **Software Engineer from Tunisia** with experience in designing and developing scalable web applications, intelligent software solutions, and modern architectures.
 
-I enjoy solving complex challenges through clean code, software architecture, DevOps practices, and modern technologies.
+My expertise spans **Full-Stack Development, Monolithic & Microservices Architectures, REST APIs, DevOps, IoT, Artificial Intelligence, and Business Process Automation**.
 
-My expertise includes:
+I enjoy solving complex challenges through clean code, software architecture, automation, and modern technologies.
 
-- 💻 Full-Stack Development
-- ☕ Java & Spring Boot
-- 🅰️ Angular
-- 🐘 PHP & Symfony
-- ⚛️ React
-- 🐍 Python
-- 🏗️ Microservices Architecture
-- ☁️ DevOps & CI/CD
-- 🤖 Artificial Intelligence Integration
-- 🌐 REST APIs
+I am particularly interested in **Generative AI, Machine Learning, NLP, LLMs, RAG systems, OCR technologies, Speech-to-Text solutions, and AI-powered business applications**.
 
-🌱 **Current Focus:** Building **GynCare AI**, an intelligent healthcare platform for gynecologists combining OCR, Speech-to-Text, AI-powered automation, and modern web technologies.
+🌱 **Current Focus:** Building **GynCare AI**, an intelligent healthcare platform for gynecologists that combines OCR, Speech-to-Text, Generative AI, and workflow automation to simplify medical consultations and document management.
+
+⚡ **Currently Exploring:** n8n, AI Agents, RAG Architectures, LLM Integration, and AI Workflow Automation.
 
 💡 **Fun Fact:** I built an IoT pet feeder using Raspberry Pi and ESP32 to keep pets happy remotely.
 
@@ -64,29 +57,37 @@ My expertise includes:
 
 ---
 
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-Skilled-blue?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Skilled-blue?style=flat-square&logo=postgresql)
-
----
-
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence & Automation
 
 ![Python](https://img.shields.io/badge/Python-AI-green?style=flat-square&logo=python)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Skilled-purple?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-orange?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Learning-blue?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Learning-purple?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Learning-red?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Skilled-orange?style=flat-square)
 ![OCR](https://img.shields.io/badge/OCR-Skilled-blue?style=flat-square)
 ![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-Skilled-red?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Skilled-orange?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat-square)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-Skilled-brightgreen?style=flat-square)
 
 ---
 
 ## 🏗️ Architecture & APIs
 
-![Microservices](https://img.shields.io/badge/Microservices-Skilled-blue?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-Skilled-green?style=flat-square)
+![Monolithic](https://img.shields.io/badge/Monolithic-Skilled-blue?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-Skilled-green?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-Skilled-brightgreen?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-Skilled-orange?style=flat-square)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Skilled-brightgreen?style=flat-square)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Skilled-green?style=flat-square)
+![API Gateway](https://img.shields.io/badge/API_Gateway-Skilled-blue?style=flat-square)
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-Skilled-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Skilled-blue?style=flat-square&logo=postgresql)
 
 ---
 
@@ -106,20 +107,26 @@ My expertise includes:
 
 ## 🧠 GynCare AI *(Current Project)*
 
-An AI-powered healthcare platform designed for gynecologists to automate medical workflows and simplify patient management.
+An AI-powered healthcare platform designed for gynecologists to automate medical workflows and improve patient management.
 
-### Features
+### Key Features
 
-- 🎙️ Speech-to-Text medical transcription
-- 📄 OCR document digitization
-- 🤖 AI-assisted medical data processing
-- 🏥 Consultation management
-- 🔐 Secure authentication
-- 📊 Intelligent workflow automation
+- 🎙️ Voice-to-Text transcription for medical consultations
+- 📄 OCR-based medical document digitization
+- 🤖 AI-assisted report generation and intelligent data extraction
+- 🧠 LLM-powered medical assistance
+- 🔎 RAG-based knowledge retrieval
+- 📊 Intelligent consultation workflow management
+- 👩‍⚕️ Patient record centralization
+- 🔐 Secure authentication and role management
+- ⚙️ Automation workflows using n8n
+- 🌐 REST API architecture
 
-**Stack:** Spring Boot, Angular, PostgreSQL, Python, OCR, Speech-to-Text, AI Integration
+### Technologies
 
-🔗 Coming Soon
+Spring Boot • Angular • PostgreSQL • Python • OCR • Speech-to-Text • Generative AI • LLMs • RAG • NLP • n8n • JWT • REST API
+
+🔗 Repository Coming Soon
 
 ---
 
@@ -127,54 +134,85 @@ An AI-powered healthcare platform designed for gynecologists to automate medical
 
 Professional platform for centralizing, managing, and searching candidate profiles using a modern microservices architecture.
 
-**Stack:** Java, Spring Boot, Angular, PostgreSQL, Spring Cloud Eureka, API Gateway, JWT
+### Technologies
+
+Java • Spring Boot • Angular • PostgreSQL • Spring Cloud Eureka • API Gateway • JWT • REST API
 
 ---
 
 ## 🦅 Eagle Soccer
 
-Football field reservation and academy management platform.
+A full-stack platform for football field booking and sports academy management.
 
-**Stack:** Spring Boot, Angular, MySQL, Spring Security, JWT
+### Features
 
-🔗 Coming Soon
+- Football field reservations
+- Academy registrations
+- JWT Authentication
+- Real-time notifications
+- User and administrator management
+
+### Technologies
+
+Spring Boot • Angular • Spring Security • MySQL • JWT
+
+🔗 Repository Coming Soon
 
 ---
 
 ## 📚 YeahKids Platform
 
-Educational content management platform for children.
+A web platform for managing educational content for children.
 
-**Stack:** Symfony 5, PHP, MySQL, Twig
+### Technologies
+
+Symfony 5 • PHP • MySQL • Twig
 
 ---
 
 ## 🏥 E-Care Telemedicine
 
-Multi-platform healthcare solution including web, desktop, and medical management features.
+A multi-platform telemedicine solution with healthcare management features.
 
-**Stack:** Symfony 4, PHP, Java, JavaFX, MySQL
+### Technologies
+
+Symfony 4 • PHP • Java • JavaFX • MySQL
 
 ---
 
 ## 🐾 PetFeeder IoT System
 
-IoT-based automatic pet feeding system.
+An IoT solution for automated pet feeding and remote monitoring.
 
-**Stack:** Raspberry Pi, ESP32, Symfony, IoT
+### Technologies
+
+ESP32 • Raspberry Pi • Symfony • IoT
 
 ---
 
 # 🏆 Achievements
 
 - 🚀 Developed multiple Full-Stack applications using Spring Boot, Angular, Symfony, React, and PHP
-- 🏗️ Designed Microservices Architectures using Spring Cloud and API Gateway
+- 🏗️ Designed and implemented Monolithic and Microservices architectures
 - 🔗 Built secure REST APIs with JWT Authentication
-- 🤖 Currently developing GynCare AI with OCR and Speech-to-Text technologies
+- 🤖 Developing GynCare AI using OCR, Speech-to-Text, LLMs, RAG, and workflow automation
 - 📡 Built IoT solutions using Raspberry Pi and ESP32
 - ☁️ Implemented CI/CD pipelines using Docker, Jenkins, and monitoring tools
 - 💾 Worked extensively with PostgreSQL and MySQL databases
-- 📈 Continuously learning Artificial Intelligence and software architecture best practices
+- 🧠 Exploring Machine Learning, NLP, Generative AI, and AI Agents
+- ⚡ Automating business workflows using n8n
+
+---
+
+# 🎯 Current Goals
+
+- 🤖 Strengthen my expertise in Artificial Intelligence and AI Engineering
+- 🧠 Build production-ready AI applications
+- 📚 Master LLMs, RAG Architectures, and AI Agents
+- 🐍 Advance Python skills for AI and Data Processing
+- ⚡ Develop intelligent automation workflows using n8n
+- ☁️ Continue building scalable Microservices with Spring Boot
+- 🚀 Create impactful AI solutions for Healthcare and Business Applications
 
 ---
 
@@ -214,6 +252,6 @@ IoT-based automatic pet feeding system.
 
 <div align="center">
 
-✨ **Crafted by Mohamed Amorri** ✨
+✨ <b>Crafted by Mohamed Amorri</b> ✨
 
 </div>
