@@ -15,13 +15,13 @@
 
 # 🛠 About Me
 
-I'm a passionate **Software Engineer from Tunisia** with experience in designing and developing scalable web applications, intelligent software solutions, and modern architectures.
+I'm a passionate **Software Engineer from Tunisia** with experience in designing and developing scalable web applications, intelligent software solutions, and modern software architectures.
 
 My expertise spans **Full-Stack Development, Monolithic & Microservices Architectures, REST APIs, DevOps, IoT, Artificial Intelligence, and Business Process Automation**.
 
 I enjoy solving complex challenges through clean code, software architecture, automation, and modern technologies.
 
-I am particularly interested in **Generative AI, Machine Learning, NLP, LLMs, RAG systems, OCR technologies, Speech-to-Text solutions, and AI-powered business applications**.
+I am particularly interested in **Generative AI, Machine Learning, NLP, LLMs, RAG systems, OCR technologies, Speech-to-Text solutions, AI Agents, and AI-powered business applications**.
 
 🌱 **Current Focus:** Building **GynCare AI**, an intelligent healthcare platform for gynecologists that combines OCR, Speech-to-Text, Generative AI, and workflow automation to simplify medical consultations and document management.
 
@@ -59,15 +59,15 @@ I am particularly interested in **Generative AI, Machine Learning, NLP, LLMs, RA
 
 ## 🤖 Artificial Intelligence & Automation
 
-![Python](https://img.shields.io/badge/Python-AI-green?style=flat-square&logo=python)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Skilled-purple?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-orange?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Learning-blue?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Learning-purple?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Learning-red?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-orange?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Exploring-blue?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Exploring-purple?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Exploring-red?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Skilled-orange?style=flat-square)
 ![OCR](https://img.shields.io/badge/OCR-Skilled-blue?style=flat-square)
 ![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-Skilled-red?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Exploring-purple?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat-square)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-Skilled-brightgreen?style=flat-square)
 
@@ -107,24 +107,25 @@ I am particularly interested in **Generative AI, Machine Learning, NLP, LLMs, RA
 
 ## 🧠 GynCare AI *(Current Project)*
 
-An AI-powered healthcare platform designed for gynecologists to automate medical workflows and improve patient management.
+An AI-powered healthcare platform designed for gynecologists to automate medical workflows, improve patient management, and simplify medical document processing.
 
 ### Key Features
 
 - 🎙️ Voice-to-Text transcription for medical consultations
-- 📄 OCR-based medical document digitization
-- 🤖 AI-assisted report generation and intelligent data extraction
+- 📄 OCR-based extraction from medical reports and laboratory documents
+- 🤖 AI-assisted report generation
 - 🧠 LLM-powered medical assistance
 - 🔎 RAG-based knowledge retrieval
-- 📊 Intelligent consultation workflow management
+- 💬 AI-powered recommendations
 - 👩‍⚕️ Patient record centralization
-- 🔐 Secure authentication and role management
+- 📊 Smart consultation workflow management
 - ⚙️ Automation workflows using n8n
+- 🔐 Secure authentication and role management
 - 🌐 REST API architecture
 
 ### Technologies
 
-Spring Boot • Angular • PostgreSQL • Python • OCR • Speech-to-Text • Generative AI • LLMs • RAG • NLP • n8n • JWT • REST API
+Spring Boot • Angular • PostgreSQL • Python • OpenAI API • OCR • Speech-to-Text • Generative AI • LLMs • RAG • NLP • n8n • JWT • REST API
 
 🔗 Repository Coming Soon
 
@@ -162,7 +163,7 @@ Spring Boot • Angular • Spring Security • MySQL • JWT
 
 ## 📚 YeahKids Platform
 
-A web platform for managing educational content for children.
+Educational content management platform for children.
 
 ### Technologies
 
@@ -172,7 +173,7 @@ Symfony 5 • PHP • MySQL • Twig
 
 ## 🏥 E-Care Telemedicine
 
-A multi-platform telemedicine solution with healthcare management features.
+A multi-platform healthcare solution with web, desktop, and medical management features.
 
 ### Technologies
 
@@ -182,7 +183,7 @@ Symfony 4 • PHP • Java • JavaFX • MySQL
 
 ## 🐾 PetFeeder IoT System
 
-An IoT solution for automated pet feeding and remote monitoring.
+An IoT-based automatic pet feeding and monitoring solution.
 
 ### Technologies
 
@@ -199,7 +200,7 @@ ESP32 • Raspberry Pi • Symfony • IoT
 - 📡 Built IoT solutions using Raspberry Pi and ESP32
 - ☁️ Implemented CI/CD pipelines using Docker, Jenkins, and monitoring tools
 - 💾 Worked extensively with PostgreSQL and MySQL databases
-- 🧠 Exploring Machine Learning, NLP, Generative AI, and AI Agents
+- 🧠 Exploring Machine Learning, NLP, Generative AI, AI Agents, and RAG architectures
 - ⚡ Automating business workflows using n8n
 
 ---
